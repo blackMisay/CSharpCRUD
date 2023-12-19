@@ -2,19 +2,13 @@
 
 This program is developed using the following tools and technologies
 
--- Programming Language:         C#
-
--- Framework (.NET):             4.7.2
-
--- Server version:               11.2.2-MariaDB - mariadb.org binary distribution
-
--- Server OS:                    Win64
-
--- HeidiSQL Version:             12.6.0.6765
-
--- IDE:                          Visual Studio 2022
-
--- Connector:                    6.0.1.0
+- Programming Language:         C#
+- Framework (.NET):             4.7.2
+- Server version:               11.2.2-MariaDB - mariadb.org binary distribution
+- Server OS:                    Win64
+- HeidiSQL Version:             12.6.0.6765
+- IDE:                          Visual Studio 2022
+- Connector:                    6.0.1.0
 
 #### Running the program
 To run the program, download and install a .NET Framework version higher than the specified above.
