@@ -11,7 +11,10 @@ This program is developed using the following tools and technologies
 - Connector:                    6.0.1.0
 
 #### Running the program
-To run the program, download and install a .NET Framework version higher than the specified above.
+- Download/clone the project into your machine.
+- Install a .NET Framework version equal or higher than the specified above.
+- Install your desired database MySQL or MariaDB.
+- Execute the sql file (backupdb.sql) into your database application.
 
 #### Notes
 - If you plan to copy and run the code in your application, make sure to download a connector that is compatible with the .NET Framework version used in your project.
